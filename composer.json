@@ -1,0 +1,13 @@
+{
+    "name": "muse/array_column_set",
+    "description": "Function to modify array column vals",
+    "license": "Unlicense",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": [
+            "array_get.php"
+        ]
+    }
+}
