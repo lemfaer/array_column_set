@@ -57,7 +57,7 @@ if (
 }
 
 if (class_exists('PHPUnit_Framework_TestCase')) {
-    class TestArrayGet extends PHPUnit_Framework_TestCase
+    class TestArrayColumnSet extends PHPUnit_Framework_TestCase
     {
         /**
          * @covers array_column_set
